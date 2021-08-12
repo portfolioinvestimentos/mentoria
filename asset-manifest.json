@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/mentoria/static/css/main.5dcdfeda.chunk.css",
+    "main.js": "/mentoria/static/js/main.e73e928f.chunk.js",
+    "main.js.map": "/mentoria/static/js/main.e73e928f.chunk.js.map",
+    "runtime-main.js": "/mentoria/static/js/runtime-main.ed417cce.js",
+    "runtime-main.js.map": "/mentoria/static/js/runtime-main.ed417cce.js.map",
+    "static/css/2.3dcab6e7.chunk.css": "/mentoria/static/css/2.3dcab6e7.chunk.css",
+    "static/js/2.a44fcd3c.chunk.js": "/mentoria/static/js/2.a44fcd3c.chunk.js",
+    "static/js/2.a44fcd3c.chunk.js.map": "/mentoria/static/js/2.a44fcd3c.chunk.js.map",
+    "static/js/3.7b6c9923.chunk.js": "/mentoria/static/js/3.7b6c9923.chunk.js",
+    "static/js/3.7b6c9923.chunk.js.map": "/mentoria/static/js/3.7b6c9923.chunk.js.map",
+    "index.html": "/mentoria/index.html",
+    "static/css/2.3dcab6e7.chunk.css.map": "/mentoria/static/css/2.3dcab6e7.chunk.css.map",
+    "static/css/main.5dcdfeda.chunk.css.map": "/mentoria/static/css/main.5dcdfeda.chunk.css.map",
+    "static/js/2.a44fcd3c.chunk.js.LICENSE.txt": "/mentoria/static/js/2.a44fcd3c.chunk.js.LICENSE.txt",
+    "static/media/Feedback1.e6fcc61a.jpeg": "/mentoria/static/media/Feedback1.e6fcc61a.jpeg",
+    "static/media/Feedback2.fda158c1.jpeg": "/mentoria/static/media/Feedback2.fda158c1.jpeg",
+    "static/media/Feedback3.c01ccf55.jpeg": "/mentoria/static/media/Feedback3.c01ccf55.jpeg",
+    "static/media/Feedback4.247a882b.jpeg": "/mentoria/static/media/Feedback4.247a882b.jpeg",
+    "static/media/Feedback5.e97ff855.jpeg": "/mentoria/static/media/Feedback5.e97ff855.jpeg",
+    "static/media/Feedback6.cded34f9.jpeg": "/mentoria/static/media/Feedback6.cded34f9.jpeg",
+    "static/media/book2.224689db.jpeg": "/mentoria/static/media/book2.224689db.jpeg",
+    "static/media/car.763e329c.svg": "/mentoria/static/media/car.763e329c.svg",
+    "static/media/cartoes.dac37a37.svg": "/mentoria/static/media/cartoes.dac37a37.svg",
+    "static/media/chicago.0f0868e4.svg": "/mentoria/static/media/chicago.0f0868e4.svg",
+    "static/media/computer2.8dd62b95.jpeg": "/mentoria/static/media/computer2.8dd62b95.jpeg",
+    "static/media/edu.2c728162.jpeg": "/mentoria/static/media/edu.2c728162.jpeg",
+    "static/media/freedom.c5a5ab31.png": "/mentoria/static/media/freedom.c5a5ab31.png",
+    "static/media/networking.4eb9435d.svg": "/mentoria/static/media/networking.4eb9435d.svg",
+    "static/media/outdoor.329a6824.svg": "/mentoria/static/media/outdoor.329a6824.svg",
+    "static/media/test.03bd70ad.png": "/mentoria/static/media/test.03bd70ad.png",
+    "static/media/whiteLogo.cbbb3792.png": "/mentoria/static/media/whiteLogo.cbbb3792.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed417cce.js",
+    "static/css/2.3dcab6e7.chunk.css",
+    "static/js/2.a44fcd3c.chunk.js",
+    "static/css/main.5dcdfeda.chunk.css",
+    "static/js/main.e73e928f.chunk.js"
+  ]
+}
